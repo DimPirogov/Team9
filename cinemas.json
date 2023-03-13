@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Cinemateket",
+        "nameId": "cinemateket",
+        "About": {
+            "sv": "Cinemateket är en del av Svenska Filminstitutet och har till uppgift att tillgängliggöra Filminstitutets samlingar, levandegöra filmhistorien och öka intresset för filmen som konstform. Svenska Filminstitutet bildades 1963 och Cinemateket, eller Filmklubben som den då kallades, bildades året efter. Den allra första filmen som visades var Cirkus av Charles Chaplin, önskad av Ingmar Bergman. Allt började 1933, då Svenska Filmsamfundet bildades. Arvet från stumfilmstiden skulle räddas, och den svenska filmen måste bli bättre. Man ordnade debatter och seminarier, delade ut stipendier och priser, och la grunden till det som i dag är Filmarkivet: ett bibliotek och ett arkiv för manus, stillbilder, pressklipp och filmkopior. 1940 bytte samfundet namn till Filmhistoriska samlingarna och 1963 bildades Svenska Filminstitutet, resultatet av Harry Scheins idé att biografägarna skulle slippa nöjesskatten mot att 10 procent av biljettintäkterna gick till produktionen av svensk film (filmavtalet).Filmhistoriska samlingarna donerades till Filminstitutet. I september 1964 började Filminstitutet Filmklubb, som i dag är Cinemateket, visa film i Z-salen i ABF-huset på Sveavägen, ovanpå jazzklubben Gyllene Cirkeln. Man hade också visningar på Moderna Museet. Filmhuset invigdes 1970.",
+            "eng": "Cinemateket is part of the Swedish Film Institute. Their mission is to make the Film Institute's collections available to the public, bring the history of film to life and increase the interest in film as an art form. The Swedish Film Institute was founded in 1963 and the Cinemateket, or the Film Club as it was then called, was founded the following year. The very first film shown was Circus by Charles Chaplin, chosen by Ingmar Bergman. It all started in 1933, when the Swedish Film Society was formed. The legacy of the silent film era had to be saved, and the Swedish film needed to be better. They organized debates and seminars, awarded scholarships and prizes, and laid the foundation for what is today the Film Archive: a library and archive for scripts, stills, press clippings and film copies. In 1940 the community changed its name to the Film History Collections and in 1963 the Swedish Film Institute was formed, the result of Harry Schein's idea that cinema owners should avoid the entertainment tax in return for 10 percent of the ticket revenue going to the production of Swedish film (the film agreement). The film history collections were donated to the Film Institute. In September 1964, the Film Institute Film Club, which is today the Cinemateket, began showing films in the Z-hall in the ABF house on Sveavägen, above the jazz club Gyllene Cirkeln. There were also screenings at the Moderna Museet. The film house was inaugurated in 1970."
+        },
+        "Adress": "Filmhuset vid gärdet, Borgvägen 1 & 3, 115 53 Stockholm",
+        "Url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/",
+        "openingHours": {
+            "monday": "18:00-21:00",
+            "tuesday": "18:00-21:00",
+            "wednesday": "18:00-21:00",
+            "thursday": "18:00-21:00",
+            "friday": "18:00-21:00",
+            "saturday": "14:00-19:00",
+            "sunday": "14:00-19:00"
+        },
+        "img": "https://www.filminstitutet.se/globalassets/4.-om-oss/press/pressbilder/filmhusetexterior_fotomarkstandley.jpg?width=10000",
+        "movies": [
+            46,
+            45,
+            44,
+            43,
+            42,
+            41,
+            40,
+            38,
+            37,
+            36
+        ],
+        "salonger": 2
+    },
+    {
+        "id": 2,
+        "name": "Victoria",
+        "nameId": "victoria",
+        "About": {
+            "sv": "Gemytliga kvartersbiografen Victoria invigdes den 18 september 1936 under bolaget Sandrew Film och Teater på pulserande Götgatan i hjärtat på Södermalm. Sedan ett tag tillbaka huserar även caféet Le Croissant i samma lokal. På Victoria kan du således numera alltid se filmer av hög kvalitet och dricka nyrostat kaffe varje dag. Det kan vara bra att känna till att biografen drivs av Svenska Bio och inte Filmstaden. Här gäller därför inte Filmstadens medlemskap. Du kan dock fortfarande boka dina biljetter på Filmstadens hemsida!",
+            "eng": "The cozy neighborhood cinema Victoria, opened on September 18th 1936 under the Sandrew Film and Theater company on the vibrant Götgatan in the heart of Södermalm. For some time now, the café Le Croissant has also been housed in the same premises. So at Victoria, you can now always watch high-quality films and drink freshly roasted coffee every day. It may be good to know that the cinema is run by Svenska Bio and not Filmstaden. Filmstaden's membership does therefore not apply here. You can however, still book your tickets on Filmstaden's website!"
+        },
+        "Adress": "Södermalm, Götgatan 67, 116 21 Stockholm",
+        "Url": "https://www.filmstaden.se/biograf/NCG74195/victoria-stockholm",
+        "openingHours": {
+            "monday": "10:30-21:15",
+            "tuesday": "10:30-21:15",
+            "wednesday": "10:30-21:15",
+            "thursday": "10:30-21:15",
+            "friday": "10:30-21:15",
+            "saturday": "10:30-21:15",
+            "sunday": "10:30-21:15"
+        },
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Victoria_entre_2016.jpg/1494px-Victoria_entre_2016.jpg",
+        "movies": [
+            1,
+            2,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            15,
+            16,
+            17,
+            29,
+            33,
+            35
+        ],
+        "salonger": 8
+    },
+    {
+        "id": 3,
+        "name": "Capitol Biograf & Bistro",
+        "nameId": "capitol",
+        "About": {
+            "sv": "Bio Capitol är Stockholms en av dom nyaste oberoende biograferna, med ett program av klassiker, internationella premiärer och smalare filmer. Med inspiration från filmpalats som Alamo Drafthouse i USA, är ambitionerna att bjuda på en lite vuxnare helhetsupplevelse med bio och restaurangbesök och kanske ett glas vin. På bistron kan du få en god bit mat och något att dricka antingen innan, efter eller under filmen!",
+            "eng": "Bio Capitol is one of Stockholm's newest independent cinemas, mixing classics, international blockbusters and more niched films. With inspiration from movie palaces such as the Alamo Drafthouse in the US, the ambition is to offer a more adult overall experience combining cinema and restaurant visits and perhaps a glass of wine. At the bistro you can get a good meal and something to drink either before, after or during the film!"
+        },
+        "Adress": "Vasastan, Sankt Eriksgatan 82, 113 62 Stockholm",
+        "Url": "https://www.capitolbio.se/",
+        "openingHours": {
+            "monday": "17:00-22:00",
+            "tuesday": "17:00-22:00",
+            "wednesday": "17:00-22:00",
+            "thursday": "17:00-22:00",
+            "friday": "13:45-22:00",
+            "saturday": "10:45-22:00",
+            "sunday": "10:45-22:00"
+        },
+        "img": "https://scontent.farn2-2.fna.fbcdn.net/v/t31.18172-8/15800306_612102385641643_154789360486184923_o.jpg?_nc_cat=110&ccb=1-7&_nc_sid=973b4a&_nc_ohc=ReQ_5u1caJwAX9NDawQ&_nc_ht=scontent.farn2-2.fna&oh=00_AfDIh8cUC8eAfl2v0NAUwheJHfoX896LSRML_NbJVLpc2w&oe=6424176B",
+        "movies": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            13,
+            14,
+            15,
+            17,
+            20,
+            28,
+            30,
+            33,
+            34,
+            35,
+            39,
+            40
+        ],
+        "salonger": 2
+    },
+    {
+        "id": 4,
+        "name": "Filmstaden Sergel",
+        "nameId": "sergel",
+        "About": {
+            "sv": "Filmstaden Sergel kanske inte lockar med sin mysfaktor men med 14 salong och totalt 2 667 platser är det en av dom största biograferna i Stockholm och bjuder därmed på ett stort utbud av filmer. I källarlokalerna under biografen finns Hötorgshallen samt ett parkeringsgarage. År 1995 byggdes Hötorgscitys fasad mot Hötorget till med Filmstaden Sergel och byggnaden fick så till slut den tänkta ljusa glasfasaden mot Hötorget som arkitekt Sven Markelius ursprungligen hade planerat. Hans önskan var att placera Stockholms Stadsteater här. Den nuvarande biografen har sitt namn efter den tidigare singelbiografen och scenteatern Sergelteatern på samma plats, som i sin tur var uppkallad efter skulptören Johan Tobias Sergel, som hade sin ateljé vid Sergelgatan. Den ursprungliga Sergelteatern från 1959 är idag komplexets stora salong, ombyggd med förhöjd komfort och förbättrad akustik, med bibehållande av 1950-talskänslan. Filmstaden Sergel ritades av arkitekten Per Kallstenius med inredning av Birgitte Baadsgaard.",
+            "eng": "Filmstaden Sergel may not attract with its coziness, but with 14 theaters and a total of 2667 seats, it is one of the largest cinemas in Stockholm and offers a large selection of films. In the basement premises under the cinema you will find the popular Hötorgshallen and a parking garage. In 1995, Filmstaden Segel was added to the Hötorgscity building facing Hötorget, and the building finally got the bright glass facade that the architect Sven Markelius originally planned. His wish was to place the Stockholm City Theater here. The current cinema is named after the former single cinema and stage theater Sergelteatern thich was located on the same site, named after the sculptor Johan Tobias Sergel who had his studio on Sergelgatan. The original Sergelteatern from 1959 is today the complex's main hall, rebuilt with increased comfort and improved acoustics, while retaining the 1950s feel. Filmstaden Sergel was designed by architect Per Kallstenius with interior design by Birgitte Baadsgaard."
+        },
+        "Adress": "Hötorget 3, 111 57 Stockholm",
+        "Url": "https://www.filmstaden.se/biograf/NCG27927/filmstaden-sergel",
+        "openingHours": {
+            "monday": "11:00-21:45",
+            "tuesday": "11:00-21:45",
+            "wednesday": "11:00-21:45",
+            "thursday": "11:00-21:45",
+            "friday": "11:00-22:45",
+            "saturday": "10:30-22:45",
+            "sunday": "10:30-22:45"
+        },
+        "img": "https://th.bing.com/th/id/R.f150afc6a455bdfb3421a6be58fece43?rik=QBRh5Umcv0ApMA&riu=http%3a%2f%2fphotos.wikimapia.org%2fp%2f00%2f03%2f64%2f12%2f52_full.jpg&ehk=JsA9Mj8aiHPdPa6GttPmT7CbmgR0KPC99sL5rh81SaI%3d&risl=&pid=ImgRaw&r=0",
+        "movies": [
+            1,
+            2,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            15,
+            16,
+            17,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            33,
+            35
+        ],
+        "salonger": 14
+    },
+    {
+        "id": 5,
+        "name": "Zita Folkets Bio",
+        "nameId": "zita",
+        "About": {
+            "sv": "Folkets Bio Zita är Stockholms äldsta biograf i drift! 1913 invigdes Zita som då var en stumfilmsbio under namnet Vinter-Palatset. Dess långa historia är brokig och fascinerande. Efter viss ombyggnad återinvigdes bion under namnet Rita den 24 november 1930 av norrmannen Odd Biörnstad. Han skapade den framgångsrika biograf-kedjan Riteatrarna i Stockholm, inriktad på film från Hollywood. Efter att ha köpt Rialto och Ritz blev Rita hans tredje bio och namnet Riteatrarna böjade användas. Rita var under trettiotalet en av Riteatrarnas premiärbiografer. Men sedan man byggt större och elegantare sådana i grannskapet, som Rigoletto 1939 och Park-Teatern 1941, användes Rita mera sporadiskt som premiärbio. Ytterligare två Ri-biografer är ännu i drift: Riviera och Rival. På sjuttiotalet visades många danska s.k. mjukporrfilmer på Rita som då kallades Nya Rita. Därmed förebådades vad som komma skulle. År 1983 tog Europa Film över driften av Nya Rita, liksom av alla övriga Ri-biografer. Den 2 april 1984 hade Europa Film dragit sig ur och Rita återinvigdes som genuin porrbio under namnet Zita. Biljettkassan sålde poletter som besökaren lade i ett vändkors. De liderliga osedligheterna visades mer eller mindre nonstop, med hjälp av en Philips FP 30-projektor och s.k. non-rewind-system. 1992 övertog Folkets Bio Zita och satte igång med ombyggnaden av biografen. Man satsade på att behålla namnet Zita. Förmodligen bör dock inte detta tolkas som en hyllning till denna bios pornografiska epok. 1993 kunde besökarna möta Folkets Bios helrenoverade Zita-biograf med dess tre salonger och restaurangen Babs Kök & Bar. Folkets Bio har därmed i uppgift att förvalta Stockholms äldsta biograf. Den enda ursprungliga utsmyckning som tagits tillvara och alltjämt kan beundras är de gyllene amoriner som flankerar filmduken, högt uppe under taket. Fler av samma sort är bevarade på det som var balkongens bakre vägg - numera i en korridor i rikting mot salong 3.",
+            "eng": "Folkets Bio Zita is Stockholm's oldest cinema still in operation, with a long and facinating history! Zita opened for the first time 1913, then as a silent cinema under the name Vinter-Palatset. November 24th 1930 the cinema was reopened under the name Rita by the Norwegian Odd Biörnstad after some remodeling. He created the successful cinema chain the Ri-cinemas in Stockholm, focused on films from Hollywood. After buying the Rialto and the Ritz, Rita became his third theater and the name Ri-cinemas was used for the first time. During the thirties, Rita was one of the Ri-cinemas premier cinemas. But since larger and more elegant ones were built in the neighborhood, such as Rigoletto in 1939 and the Park Theater in 1941, Rita was used more sporadically. Two more Ri-cinemas are still in operation: Riviera and Rival. In the seventies they started to show Danish so-called soft porn movies on Rita, which was then called Nya Rita. This foreshadowed what was to come. In 1983, Europa Film took over the operation of Nya Rita, as well as all other Ri cinemas. On April 2 1984, Europa Film had pulled out and Rita was re-inaugurated as a genuine porn cinema under the name Zita. The ticket office sold tokens that the visitor placed in a turnstile. The films were shown more or less nonstop, with the help of a Philips FP 30 projector and so-called non-rewind system. In 1992, Folkets Bio took over Zita and started rebuilding the cinema. They decided to keep the name Zita. Probably, however, this should not be interpreted as a tribute to the pornographic era of this cinema. In 1993, visitors could meet Folkets Bio's completely renovated Zita cinema with its three lounges and the restaurant Babs Kök & Bar. Folkets Bio thus has the honorful mission of managing Stockholm's oldest cinema. The only original decoration that has been preserved and can still be admired is the golden cupids that flank the screen, high up under the ceiling. More of the same type are preserved on what was the back wall of the balcony - towards auditorium 3."
+        },
+        "Adress": "Birger Jarlsgatan 37, 111 45 Stockholm",
+        "Url": "https://zita.se/",
+        "openingHours": {
+            "monday": "13:00-21:00",
+            "tuesday": "13:00-21:00",
+            "wednesday": "13:00-21:00",
+            "thursday": "13:00-21:00",
+            "friday": "13:00-21:00",
+            "saturday": "13:00-21:00",
+            "sunday": "13:00-21:00"
+        },
+        "img": "https://reg.kulan.stockholm/images/zitafolkets-bio-602a5d777ae28.jpg",
+        "movies": [
+            4,
+            5,
+            7,
+            10,
+            11,
+            12,
+            15,
+            16,
+            18,
+            19,
+            32
+        ],
+        "salonger": 3
+    }
+]

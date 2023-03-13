@@ -1,0 +1,17 @@
+[
+    {
+        "labels": ["Cinemateket", "Zita Folkets Bio", "FilmStaden Sergel", "Capitol Biograf & Bistro"],
+        "datasets": [
+          {
+            "label": "Antal besökare per år",
+            "backgroundColor": "rgba(255,99,132,0.2)",
+            "borderColor": "rgba(255,99,132,1)",
+            "borderWidth": 1,
+            "hoverBackgroundColor": "rgba(255,99,132,0.4)",
+            "hoverBorderColor": "rgba(255,99,132,1)",
+            "data": [300000,300000, 1000000, 700000,500000 ]
+          }
+        ]
+      }
+
+]
