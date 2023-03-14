@@ -626,29 +626,25 @@
     },
     {
         "id": 26,
-        "titleEnglish": "Dans & lek med Babblarna",
-        "titleOriginal": "Dans & lek med Babblarna",
-        "titleSweden": "Dans & lek med Babblarna",
-        "titleId": "dans_&_lek_med_babblarna",
-        "category": ["Barn"],
-        "director": ["Anneli Tisell", "My Blomqvist Olsberg"],
+        "titleEnglish": "Ruthless Times: Songs of Care",
+        "titleOriginal": "Armotonta menoa - hoivatyön lauluja",
+        "titleSweden": "Grymma tider",
+        "titleId": "grymma_tider",
+        "category": ["Dokumentär"],
+        "director": ["Susanna Helke"],
         "actors":
             [
-                "Diana Ellman",
-                "Sara Scott",
-                "Magnus Sjögren",
-                "Sanna Lejweman",
-                "Sara Kjellberg"
+                "Sepi Kumpulainen"
             ],
-        "premiere": 2022,
-        "minutes": 40,
+        "premiere": 2023,
+        "minutes": 92,
         "ageLimit": 0,
-        "imdb": null,
+        "imdb": 7.2,
         "rtTomatometer": null,
         "rtAudienceScore": null,
-        "plot": "Dansa, lek och sjung med Babblarna! Flera av barnens gamla favoriter blandat med nytt. Det här är filmen som vill att inte ett endaste litet barn ska sitta stilla eller vara tyst.",
-        "img": "https://static.cdn-expressen.se/images/47/9e/479e334231c24f9fa2a2e165ec2ddd58/16x9/2560.jpg",
-        "trailer": "https://youtu.be/ec1D6QdJp2s"
+        "plot": "Grymma tider - vårdarbetets sånger är en dokumentärisk sångfilm färgad av mörk humor. Filmen handlar om den finska äldreomsorgens tillstånd, om vårdarbetarna och vårdtagarna samt deras anhöriga. Filmen berättar om den krisande äldreomsorgens vardag genom dokumentäriska episoder och genom sång.",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWJlNDZmOTctZWQ5MS00YzhhLWE1MmQtNzI2MTYzZTgyYzg2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_FMjpg_UY4961_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=07d4Z-Ux2ZU"
     },
     {
         "id": 27,
